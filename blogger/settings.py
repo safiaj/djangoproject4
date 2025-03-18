@@ -31,9 +31,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['.herokuapp.com',
                  'https://djangoprojectf-86dd66b321f1.herokuapp.com',
-                 'http://127.0.0.1:8000',
-                 '127.0.0.1', 
-                 'localhost']
+                 'http://127.0.0.1:8000', '127.0.0.1', 'localhost', '.herokuapp.com']
 
 
 # Application definition
